@@ -67,7 +67,7 @@
 
 
 
-![image-20201008194459977](C:\Users\17842\AppData\Roaming\Typora\typora-user-images\image-20201008194459977.png)
+![](https://gitee.com/lim-gitee/blog-image/raw/master/img/20201009101757.png)
 
 ![](https://gitee.com/lim-gitee/blog-image/raw/master/img/20201008195133.png)
 
@@ -99,6 +99,6 @@
 >
 > $$AutoSave\ Measurements(Save Spectra ......)$$：自动保存测量数据
 
-![image-20201008201844318](C:\Users\17842\AppData\Roaming\Typora\typora-user-images\image-20201008201844318.png)
+![](https://gitee.com/lim-gitee/blog-image/raw/master/img/20201009101650.png)
 
 ​	5 点击OK保存，放置好样品即可开始测量
