@@ -50,14 +50,14 @@
 
 ![](https://gitee.com/lim-gitee/blog-image/raw/master/img/20201008192817.png)
 
-> 1. COM选择---$$COM3$$，点击connect
+> 1. COM选择---COM3，点击connect
 > 2. 运行控制中：地址选择1
 > 3. 方向为remote
-> 4. 速度为$$4.67mm/s$$
-> 5. 行程一般100，循环为$$10N$$
+> 4. 速度为4.67mm/s
+> 5. 行程一般100，循环为10N
 > 6. 点击执行
 
-#### 2.2 $$Avosoft$$使用
+#### 2.2 Avosoft使用
 
 ![](https://gitee.com/lim-gitee/blog-image/raw/master/img/20201008193146.png)
 
@@ -81,7 +81,7 @@
 
     > Continues模式下勾选此项则会导致一直将背景光谱输出，电脑可能死机
     >
-    > 出现此种情况进入任务管理器结束$$Avosoft$$这个软件
+    > 出现此种情况进入任务管理器结束Avosoft这个软件
 
     a）Single Column为不平均直接将每次结果输出
 
@@ -91,13 +91,13 @@
 
 ​	3 点击Dark（绿色圆形按钮）按钮保存所测得的背景噪声（步骤1、2目的是去除环境条件的干扰）
 
-​	4 将测量模式改为$$L,B.I.S$$，点击Options——Laser Induced Breakdown Spectroscopy
+​	4 将测量模式改为L,B.I.S，点击Options——Laser Induced Breakdown Spectroscopy
 
 > Number of measurements：输出次数（输出到Excel内的数据）
 >
 > Averages：平均次数（对所测量的数据平均多少次输出一次，在$$AutoSoft$$勾选的情况下）
 >
-> $$AutoSave\ Measurements(Save Spectra ......)$$：自动保存测量数据
+> AutoSave\ Measurements(Save Spectra ......)：自动保存测量数据
 
 ![](https://gitee.com/lim-gitee/blog-image/raw/master/img/20201009101650.png)
 
